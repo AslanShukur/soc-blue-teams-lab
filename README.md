@@ -1,0 +1,1 @@
+# soc-blue-teams-lab
