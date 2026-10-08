@@ -1,2 +1,2 @@
 # soc-blue-teams-lab
-Bu mövzu altında kibertəhlükəsizliyin Blue tərəfinə aid işlədiyim lab işlərini göstərəcəm. 
+Under this topic, I will showcase the lab exercises I have worked on regarding the "Blue Team" side of cybersecurity.
